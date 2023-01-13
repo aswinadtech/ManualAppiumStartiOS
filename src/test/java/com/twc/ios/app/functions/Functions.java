@@ -304,7 +304,7 @@ public class Functions extends Driver {
 	 * @throws IOException
 	 * @throws Exception
 	 */
-	public static void Appium_Autostart() throws IOException, Exception {
+	/*public static void Appium_Autostart() throws IOException, Exception {
 		// Auto start Appium
 		//Start_Stop_AppiumServer appiumStart = new Start_Stop_AppiumServer();
 		System.out.println("Stopping the appium server");
@@ -314,7 +314,7 @@ public class Functions extends Driver {
 		System.out.println("Starting the appium server");
 		startAppiumServer();
 		System.out.println("Appium server is started and running");
-	}
+	}*/
 
 	/**
 	 *  Decide connected device
