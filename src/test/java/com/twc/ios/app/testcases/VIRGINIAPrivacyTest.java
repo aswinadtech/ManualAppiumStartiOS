@@ -146,7 +146,7 @@ public class VIRGINIAPrivacyTest extends TwcIosBaseTest {
 		Utils.getiPhoneUDID();
 		Utils.getiOSVersion();
 		Functions.capabilities();
-		Functions.Appium_Autostart();
+		//Functions.Appium_Autostart();
 		// Enable rewriting on Charles install/launch TWC
 		proxy.enableRewriting();
 		proxy.startRecording();
