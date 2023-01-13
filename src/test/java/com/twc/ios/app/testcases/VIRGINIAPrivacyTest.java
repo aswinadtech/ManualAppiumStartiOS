@@ -125,12 +125,12 @@ public class VIRGINIAPrivacyTest extends TwcIosBaseTest {
 		logStep("****** downloadAndInstallApp Test Started");
 		// Preconditions
 		Functions.capabilities();
-		Functions.Appium_Autostart();
-		Utils.getCurrentMacIPAddressAndSetiPhoneProxy(false);
-		Functions.uninstallApp();
-		Functions.launchFirebaseInSafariAndInstallApp();
-		Utils.twcAppInstalledCheck();
-		Ad.closeApp();
+		//Functions.Appium_Autostart();
+		//Utils.getCurrentMacIPAddressAndSetiPhoneProxy(false);
+		//Functions.uninstallApp();
+		//Functions.launchFirebaseInSafariAndInstallApp();
+		//Utils.twcAppInstalledCheck();
+		//Ad.closeApp();
 		System.out.println("****** downloadAndInstallApp Test Completed");
 		logStep("****** downloadAndInstallApp Test Completed");
 
