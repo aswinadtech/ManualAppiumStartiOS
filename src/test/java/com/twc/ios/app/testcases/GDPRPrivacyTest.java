@@ -124,10 +124,10 @@ public class GDPRPrivacyTest extends TwcIosBaseTest {
 		Utils.getiPhoneUDID();
 		Utils.getiOSVersion();
 		Functions.capabilities();
-		Functions.Appium_Autostart();
+		//Functions.Appium_Autostart();
 		Utils.getCurrentMacIPAddressAndSetiPhoneProxy(false);
- 		Functions.uninstallApp();
-		Functions.launchFirebaseInSafariAndInstallApp();
+ 		//Functions.uninstallApp();
+		//Functions.launchFirebaseInSafariAndInstallApp();
 		//Functions.launchFirebaseInSafariAndInstallApp("RC");
 		//Functions.launchFirebaseInSafariAndInstallApp("RC", "12.29(425131)");
 		TestBase.waitForMilliSeconds(5000);
