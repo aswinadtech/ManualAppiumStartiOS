@@ -304,17 +304,17 @@ public class Functions extends Driver {
 	 * @throws IOException
 	 * @throws Exception
 	 */
-	/*public static void Appium_Autostart() throws IOException, Exception {
+	public static void Appium_Autostart() throws IOException, Exception {
 		// Auto start Appium
 		//Start_Stop_AppiumServer appiumStart = new Start_Stop_AppiumServer();
-		System.out.println("Stopping the appium server");
+		/*System.out.println("Stopping the appium server");
 		stopAppiumServer();
 		System.out.println("Appium server is stopped");
 		TestBase.waitForMilliSeconds(10000);
 		System.out.println("Starting the appium server");
 		startAppiumServer();
-		System.out.println("Appium server is started and running");
-	}*/
+		System.out.println("Appium server is started and running");*/
+	}
 
 	/**
 	 *  Decide connected device
