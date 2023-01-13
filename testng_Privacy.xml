@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.twc.ios.app.testcases.GDPRPrivacyTest"/>
-      <class name="com.twc.ios.app.testcases.BURDAPrivacyTest"/>
       <class name="com.twc.ios.app.testcases.VIRGINIAPrivacyTest"/>
        <class name="com.twc.ios.app.testcases.USACCPAPrivacyTest"/>
       <class name="com.twc.ios.app.testcases.USAPrivacyTest"/>
